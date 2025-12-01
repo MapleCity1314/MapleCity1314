@@ -9,7 +9,7 @@
       <h3 align="left">👨‍💻 Source Code Identity</h3>
       <pre>
 ```rust
-struct YuhangZhao {
+struct Presto {
     role: "Web3 & AI Architect",
     location: "Shenzhen, CN",
     codebase: ["Rust", "TypeScript", "Python"],

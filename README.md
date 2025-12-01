@@ -24,9 +24,6 @@ struct YuhangZhao {
 ```
       </pre>
       <div align="left">
-        <a href="https://github.com/vercel/next.js/graphs/contributors">
-            <img src="https://img.shields.io/badge/Next.js-Core_Contributor-000000?style=for-the-badge&logo=next.js&logoColor=white&border=1">
-        </a>
         <a href="http://icstudio.top/">
             <img src="https://img.shields.io/badge/LINK-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
         </a>

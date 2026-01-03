@@ -116,21 +116,21 @@ struct Presto {
 ```mermaid
 graph LR
     subgraph Client ["🖥️ User Interface (Next.js 16)"]
-        UI[Prompt Input]
-        Stream[RSC Stream Rendering]
-        Editor[Live Code Editor]
+        UI["Prompt Input"]
+        Stream["RSC Stream Rendering"]
+        Editor["Live Code Editor"]
     end
 
     subgraph Brain ["🧠 AI Core (Server Actions)"]
-        Planner[Task Planner]
-        Context[Context Manager (mem0)]
-        LLM[Model Inference]
+        Planner["Task Planner"]
+        Context["Context Manager (mem0)"]
+        LLM["Model Inference"]
     end
 
     subgraph Sandbox ["📦 Execution Environment"]
-        WebC[WebContainer / Docker]
-        Runner[Code Runner]
-        Feedback[Error & Output Logs]
+        WebC["WebContainer / Docker"]
+        Runner["Code Runner"]
+        Feedback["Error & Output Logs"]
     end
 
     UI -->|"Intent"| Planner

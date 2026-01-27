@@ -13,13 +13,14 @@ struct Presto {
     name: "Presto",
     age: 20,
     location: "Beijing, CN",
-    role: "AI Native Fullstack Engineer",
+    role: "Web3 AI Native Fullstack Engineer",
     achievements: [
         "Next.js Contributor",
         "Huawei Certified ICT Associate (HCIA)"
     ],
     tech_focus: {
         core: "Next.js 16 / React 19 / RSC",
+        web3: "Foundry,hardhat,Anchor,x402",
         backend: "Go / Rust / Nest.js",
         ai_stack: "LangChain / Vercel AI SDK / RAG",
         infra: "Docker / WebContainers"

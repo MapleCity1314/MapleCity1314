@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF99&background=0D1117&center=true&vCenter=true&width=800&height=70&lines=%3E+System.init(User+%3A%3A+ZhaoYuhang);%3E+Loading+Module%3A+Next.js+Core+Contributor;%3E+Injecting%3A+AI+Agent+Architecture;%3E+Status%3A+Open+to+Work+(Hangzhou)." alt="Terminal Typing">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF99&background=0D1117&center=true&vCenter=true&width=800&height=70&lines=%3E+System.init(User+%3A%3A+Presto);%3E+Loading+Module%3A+Next.js+ developer +Contributor;%3E+Injecting%3A+AI+Agent+Architecture;%3E+Status%3A+Open+to+Work+(Hangzhou)." alt="Terminal Typing">
 </div>
 
 <!-- 核心身份卡片 -->
@@ -10,9 +10,9 @@
       <pre>
 ```rust
 struct Presto {
-    name: "Zhao Yuhang",
+    name: "Presto",
     age: 20,
-    location: "Hangzhou, CN",
+    location: "Beijing, CN",
     role: "AI Native Fullstack Engineer",
     achievements: [
         "Next.js Contributor",

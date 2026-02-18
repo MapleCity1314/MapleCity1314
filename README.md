@@ -14,10 +14,6 @@ struct Presto {
     age: 20,
     location: "Beijing, CN",
     role: "Web3 AI Native Fullstack Engineer",
-    achievements: [
-        "Next.js Contributor",
-        "Huawei Certified ICT Associate (HCIA)"
-    ],
     tech_focus: {
         core: "Next.js 16 / React 19 / RSC",
         web3: "Foundry,hardhat,Anchor,x402",

@@ -1,156 +1,39 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF99&background=0D1117&center=true&vCenter=true&width=800&height=70&lines=%3E+System.init(User+%3A%3A+Presto);%3E+Loading+Module%3A+Next.js+ developer +Contributor;%3E+Injecting%3A+AI+Agent+Architecture;%3E+Status%3A+Open+to+Work+(Hangzhou)." alt="Terminal Typing">
-</div>
+# Hi 👋, I'm Presto
 
-<!-- 核心身份卡片 -->
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3 align="left">👨‍💻 Source Code Identity</h3>
-      <pre>
-```rust
-struct Presto {
-    name: "Presto",
-    age: 20,
-    location: "Beijing, CN",
-    role: "Web3 AI Native Fullstack Engineer",
-    tech_focus: {
-        core: "Next.js 16 / React 19 / RSC",
-        web3: "Foundry,hardhat,Anchor,x402",
-        backend: "Go / Rust / Nest.js",
-        ai_stack: "LangChain / Vercel AI SDK / RAG",
-        infra: "Docker / WebContainers"
-    },
-    status: "Building the z0 Ecosystem"
-}
-```
-      </pre>
-      <div align="left">
-        <a href="mailto:murder051215@outlook.com">
-            <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
-        </a>
-        <a href="http://icstudio.top/">
-            <img src="https://img.shields.io/badge/Portfolio-Live_Demo-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white">
-        </a>
-      </div>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <h3 align="center">📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=MapleCity1314&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=c9d1d9" alt="Stats" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MapleCity1314&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=c9d1d9" alt="Languages" />
-    </td>
-  </tr>
-</table>
+### An experienced Agent developer
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MapleCity1314&label=Profile views&color=0e75b6&style=flat" alt="MapleCity1314" /> </p>
 
-<!-- 技术军火库 -->
-<h3 align="center">🛠️ Technical Arsenal</h3>
+- 🔭 I'm currently working on **the z0 ecosystem — a Code Agent platform with plan/execute/feedback loop**
 
-<div align="center">
+- 🌱 I'm currently learning **agent infrastructure, adversarial robustness, and Rust for high-performance systems**
 
-| **Domain** | **Stack Components** |
-| :--- | :--- |
-| **Next-Gen Frontend** | ![Next.js](https://img.shields.io/badge/Next.js_16-000000?logo=next.js) ![React](https://img.shields.io/badge/React_19_RSC-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css) |
-| **Backend & Systems** | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust) ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs) ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql) |
-| **AI Engineering** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?logo=openai) ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?logo=vercel) ![WebContainer](https://img.shields.io/badge/WebContainer-F16822?logo=stackblitz) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?logo=openai) ![Git](https://img.shields.io/badge/CI%2FCD-F05032?logo=git) ![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana) |
+- 👯 I'm looking to collaborate on **AI agent tooling, open source developer tools, and anything at the intersection of LLMs and real engineering workflows**
 
-</div>
+- 🤝 I'm looking for help with **scaling agent systems in production**
 
-<br/>
+- 💬 Ask me about **Code Agent architecture, Next.js RSC, Vercel AI SDK, and building LLM-powered dev tools**
 
-<!-- 项目展示：根据简历中的 z0 系列重构 -->
-<h3 align="center">🚀 Featured Projects: The z0 Series</h3>
-<p align="center"><i>High-performance AI Engineering & System Architecture</i></p>
+- 📫 How to reach me **presto1314w@gmail.com**
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 z0 Gateway (AI Infra)</h4>
-      <p>A high-concurrency Model-as-a-Service gateway unifying OpenAI/Local models.</p>
-      <ul>
-        <li><b>Stack:</b> Go, WebSocket, Postgres, Workflow SDK</li>
-        <li><b>Impact:</b> Reduced model integration costs by 70%, ms-level streaming.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 z0 Agent (Vibe Coding)</h4>
-      <p>Web-based AI Agent system for complex task execution & code generation.</p>
-      <ul>
-        <li><b>Stack:</b> Next.js 16, React 19, Server Actions, mem0</li>
-        <li><b>Feature:</b> "Plan/Execute/Feedback" loop with WebContainer sandbox.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📈 z0 Lens (Quant Platform)</h4>
-      <p>Agent-driven quantitative research & visualization platform.</p>
-      <ul>
-        <li><b>Stack:</b> WebGL, WebSocket, Rust/Quant Engines</li>
-        <li><b>Core:</b> Automated factor mining, IC/RankIC monitoring, backtesting.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚖️ z Judge (Online Judge)</h4>
-      <p>Distributed AI-powered coding assessment system.</p>
-      <ul>
-        <li><b>Stack:</b> Nest.js, Docker Sandbox, Message Queue</li>
-        <li><b>Perf:</b> Async task pipeline with secure isolation.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- ⚡ Fun fact **`I think in systems, but I ship in TypeScript.`**
 
-<br/>
+- 👨‍💻 All of my projects are available at **[https://icstudio.top/](https://icstudio.top/)**
 
-<!-- 架构图：展示你简历中提到的 Agent Vibe Coding 逻辑 -->
-<h3 align="center">🧩 Architecture: Agentic Workflow</h3>
-<p align="center"><i>Visualizing the "Plan / Execute / Feedback" Loop from z0 Agent</i></p>
+- 📝 I regularly write articles on **[https://icstudio.top/](https://icstudio.top/)**
 
-```mermaid
-graph LR
-    subgraph Client ["🖥️ User Interface (Next.js 16)"]
-        UI["Prompt Input"]
-        Stream["RSC Stream Rendering"]
-        Editor["Live Code Editor"]
-    end
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1hp83S03HghDdXOwS88FTwuPgMC3vD6x1/view?usp=sharing](https://drive.google.com/file/d/1hp83S03HghDdXOwS88FTwuPgMC3vD6x1/view?usp=sharing)**
 
-    subgraph Brain ["🧠 AI Core (Server Actions)"]
-        Planner["Task Planner"]
-        Context["Context Manager (mem0)"]
-        LLM["Model Inference"]
-    end
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/MapleCity1314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MapleCity1314" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/maplecity1314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/maplecity1314" height="30" width="40" /></a>
+</p>
 
-    subgraph Sandbox ["📦 Execution Environment"]
-        WebC["WebContainer / Docker"]
-        Runner["Code Runner"]
-        Feedback["Error & Output Logs"]
-    end
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ionic" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
 
-    UI -->|"Intent"| Planner
-    Planner -->|"Steps"| LLM
-    LLM <-->|"History"| Context
-    LLM -->|"Gen Code"| Stream
-    Stream --> Editor
-    
-    Editor -.->|"Execute"| WebC
-    WebC --> Runner
-    Runner -->|"Logs/Diff"| Feedback
-    Feedback --"Auto-Correction"--> LLM
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MapleCity1314&show_icons=true&locale=en&layout=compact" alt="MapleCity1314" /></p>
 
-    style Client fill:#0f172a,stroke:#3b82f6,stroke-width:2px,color:#fff
-    style Brain fill:#1e1e1e,stroke:#00ff99,stroke-width:2px,color:#fff
-    style Sandbox fill:#2d1b2e,stroke:#9945ff,stroke-width:2px,color:#fff
-```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MapleCity1314&show_icons=true&locale=en" alt="MapleCity1314" /></p>
 
-<!-- 底部动态图 -->
-<div align="center">
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MapleCity1314&bg_color=0D1117&color=00FF99&line=9945FF&point=FFFFFF&hide_border=true" width="100%"/>
-<br/>
-<br/>
-<i>"Turning technical capability into stable, scalable business value."</i>
-</div>

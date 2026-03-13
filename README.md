@@ -1,39 +1,84 @@
-# Hi 👋, I'm Presto
+<div align="center">
 
-### An experienced Agent developer
+```
+I think in systems, but I ship in TypeScript.
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MapleCity1314&label=Profile views&color=0e75b6&style=flat" alt="MapleCity1314" /> </p>
+# Presto
 
-- 🔭 I'm currently working on **the z0 ecosystem — a Code Agent platform with plan/execute/feedback loop**
+**Agent Engineer** · Building infrastructure for the agentic era
 
-- 🌱 I'm currently learning **agent infrastructure, adversarial robustness, and Rust for high-performance systems**
+[![Twitter](https://img.shields.io/badge/𝕏-maplecity1314-black?style=flat-square&logo=x)](https://x.com/maplecity1314)
+[![npm](https://img.shields.io/badge/npm-presto1314w-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/~presto1314w)
+[![Email](https://img.shields.io/badge/email-presto1314w@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:presto1314w@gmail.com)
+[![Site](https://img.shields.io/badge/site-icstudio.top-000?style=flat-square&logo=vercel)](https://icstudio.top)
+[![LXDAO](https://img.shields.io/badge/LXDAO-member-5A67D8?style=flat-square)](https://lxdao.io)
 
-- 👯 I'm looking to collaborate on **AI agent tooling, open source developer tools, and anything at the intersection of LLMs and real engineering workflows**
+</div>
 
-- 🤝 I'm looking for help with **scaling agent systems in production**
+---
 
-- 💬 Ask me about **Code Agent architecture, Next.js RSC, Vercel AI SDK, and building LLM-powered dev tools**
+I build **agent systems that actually work in production** — not demos.  
+My focus: reliable execution loops, silent failure diagnosis, and agent-native infrastructure.
 
-- 📫 How to reach me **presto1314w@gmail.com**
+Currently deep in the **z0 ecosystem** and thinking about Agentic Primitives as the foundational layer of the next computing wave.
 
-- ⚡ Fun fact **`I think in systems, but I ship in TypeScript.`**
+---
 
-- 👨‍💻 All of my projects are available at **[https://icstudio.top/](https://icstudio.top/)**
+## ⚙️ What I'm building
 
-- 📝 I regularly write articles on **[https://icstudio.top/](https://icstudio.top/)**
+| Project | Description | Stack |
+|---|---|---|
+| [**z0**](https://github.com/MapleCity1314/z0) | Open-source Code Agent platform. Plan → Execute → Feedback, isolated Git branches per SubAgent, checkpoint recovery. | TS · Next.js · Vercel |
+| [**vite-browser**](https://www.npmjs.com/package/@presto1314w/vite-devtools-browser) | Standalone Vite runtime diagnostics CLI. HMR correlation, store-to-render tracing, mapped error diagnosis — no plugin required. | TS · Node.js |
+| **loome** | AI-generated creative video & visual effects. The project I care about most. | React · Tauri · Rust |
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1hp83S03HghDdXOwS88FTwuPgMC3vD6x1/view?usp=sharing](https://drive.google.com/file/d/1hp83S03HghDdXOwS88FTwuPgMC3vD6x1/view?usp=sharing)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/MapleCity1314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MapleCity1314" height="30" width="40" /></a>
-<a href="https://twitter.com/https://x.com/maplecity1314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/maplecity1314" height="30" width="40" /></a>
-</p>
+## 🛠 Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ionic" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+**Primary**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MapleCity1314&show_icons=true&locale=en&layout=compact" alt="MapleCity1314" /></p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MapleCity1314&show_icons=true&locale=en" alt="MapleCity1314" /></p>
+**Performance / Systems**
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**AI / Agents**
+
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000?style=flat-square&logo=vercel)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama)
+
+**Infra / Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
+
+---
+
+## 📡 What I'm thinking about
+
+- **Agentic Primitives** — the AWS-equivalent infra layer for the AI era
+- Agent silent failure diagnosis & observability
+- Vercel Sandbox as agent execution infrastructure
+- Prompt caching across providers
+- MCP / A2A protocol convergence
+
+---
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MapleCity1314&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=MapleCity1314&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
+
+</div>

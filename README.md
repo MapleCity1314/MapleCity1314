@@ -1,6 +1,7 @@
 <div align="center">
 
-<video src="./assets/clawd-laptop.gif" autoplay loop muted playsinline width="320"></video>
+<img src="./assets/clawd-laptop.gif" width="320" alt="clawd laptop gif" />
+
 ```
 I think in systems, but I ship in TypeScript.
 ```
